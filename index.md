@@ -17,10 +17,11 @@ Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis rec
 
 ## 🛠️ Stack technique
 
-- **Data Engineering**: Databricks, Airflow, DBT
+- **Data Engineering**: Databricks, Airflow
 - **Data Visualisation**: Power BI, Streamlit
 - **APIs**: FastAPI, Flask
-- **Bases de données**: PostgreSQL, SQLite
+- **Bases de données**: PostgreSQL
+- **Cloud**: AWS
 - **DevOps**: Docker, Git, GitLab CI/CD
 
 ---
@@ -35,11 +36,11 @@ Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis rec
 
 ## 📄 Mon CV
 
-👉 [Télécharger mon CV (PDF)](/cv-steven-foulon.pdf)
+👉 [Télécharger mon CV (PDF)](/CV_FR.pdf)
 
 ---
 
 ## 📬 Me contacter
 
 - ✉️ Email : [flstevenpro@outlook.fr](mailto:flstevenpro@outlook.fr)
-- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://linkedin.com/in/steven-foulon)
+- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://linkedin.com/in/steven-foulon-69332514378921)
