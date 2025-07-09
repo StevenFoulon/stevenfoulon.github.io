@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Portfolio de Steven Foulon - Data Engineer chez SNCF, ex-manager chez Carrefour, reconverti dans la Data.">
+  <title>Steven Foulon - Data Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Steven Foulon</h1>
+    <p>Data Engineer chez SNCF | Ex-manager chez Carrefour</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>🚀 À propos</h2>
+      <p>Je suis un ancien manager reconverti dans la Data, aujourd’hui Data Engineer chez SNCF. J’aide les équipes à transformer la donnée en actions concrètes grâce à des pipelines robustes, des visualisations claires et des outils automatisés.</p>
+    </section>
+
+    <section>
+      <h2>💼 Projets</h2>
+      <ul>
+        <li><strong>Bot d’investissement DCA</strong> — application web pour optimiser les achats Bitcoin (FastAPI, Streamlit, PostgreSQL)</li>
+        <li><strong>Dashboard Cloud AWS</strong> — suivi des coûts d’infrastructure pour une plateforme data (Power BI)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🛠️ Compétences</h2>
+      <ul>
+        <li>Python (Pandas, Polars) | SQL (PostgreSQL)</li>
+        <li>Power BI, Streamlit</li>
+        <li>Databricks, Airflow, DBT</li>
+        <li>FastAPI, Flask</li>
+        <li>Docker, Git, GitLab CI/CD</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📬 Contact</h2>
+      <p>Email : <a href="mailto:flstevenpro@outlook.fr">flstevenpro@outlook.fr</a></p>
+      <p>LinkedIn : <a href="https://www.linkedin.com/in/steven-foulon-69332514378921788486211/">steven-foulon</a></p>
+    </section>
+
+    <footer>
+      <p>“Transformer la complexité des données en solutions simples, utiles et accessibles.”</p>
+    </footer>
+  </main>
+</body>
+</html>
