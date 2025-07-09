@@ -1,6 +1,6 @@
 [🇫🇷 Français](/) | [🇬🇧 English](/en)
 
-<img src="/assets/steven.jpg" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
+<img src="/assets/photos.jpg" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
 
 # 👋 Hi, I'm Steven Foulon
 
@@ -17,10 +17,11 @@ Former Carrefour manager, now a **Data Engineer at SNCF**. I made a successful t
 
 ## 🛠️ Tech Stack
 
-- **Data Engineering**: Databricks, Airflow, DBT
+- **Data Engineering**: Databricks, Airflow
 - **Data Visualisation**: Power BI, Streamlit
 - **APIs**: FastAPI, Flask
-- **Databases**: PostgreSQL, SQLite
+- **Databases**: PostgreSQL
+- **Cloud**: AWS
 - **DevOps**: Docker, Git, GitLab CI/CD
 
 ---
@@ -35,11 +36,11 @@ Former Carrefour manager, now a **Data Engineer at SNCF**. I made a successful t
 
 ## 📄 My Resume
 
-👉 [Download my resume (PDF)](/cv-steven-foulon.pdf)
+👉 [Download my resume (PDF)](/CV_EN.pdf)
 
 ---
 
 ## 📬 Contact
 
 - ✉️ Email : [flstevenpro@outlook.fr](mailto:flstevenpro@outlook.fr)
-- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://linkedin.com/in/steven-foulon)
+- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://linkedin.com/in/steven-foulon-69332514378921)
