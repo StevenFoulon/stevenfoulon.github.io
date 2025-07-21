@@ -43,4 +43,4 @@ Former Carrefour manager, now a **Data Engineer at SNCF**. I made a successful t
 ## 📬 Contact
 
 - ✉️ Email : [flstevenpro@outlook.fr](mailto:flstevenpro@outlook.fr)
-- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://linkedin.com/in/steven-foulon-69332514378921)
+- 💼 LinkedIn : [linkedin.com/in/steven-foulon](https://www.linkedin.com/in/steven-foulon-69332514378921788486211/)
