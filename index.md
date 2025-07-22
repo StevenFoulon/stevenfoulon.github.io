@@ -28,9 +28,9 @@ Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis rec
 
 ## 🧠 Ce que je fais au quotidien
 
-- 🔧 Data Engineering – 50%
-- 📊 Data Analyse – 30%
-- 🎤 Vulgarisation et présentation – 20%
+- 🔧 Data Engineering – 50% – Construction de pipelines ETL, automatisation ETL, industrialisation
+- 📊 Data Analyse – 30% – Exploration, visualisation, recommandations
+- 🎤 Vulgarisation et présentation – 20% – Présentations claires pour des publics non techniques
 
 ---
 
