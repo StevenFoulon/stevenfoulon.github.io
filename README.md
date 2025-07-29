@@ -7,7 +7,7 @@ Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis rec
 ## 🚀 Projets
 
 - 🎯 **Bot DCA Bitcoin** – Une app personnelle pour investir de manière intelligente en se basant sur des indicateurs économiques.
-- 💼 **Tableau de bord Cloud (AWS)** – Pour suivre les coûts d’une plateforme data complexe.
+- 💼 **Tableau de bord Cloud (AWS)** – Pour suivre les coûts d’une plateforme data.
 
 ---
 
