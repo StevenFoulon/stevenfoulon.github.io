@@ -1,6 +1,6 @@
 [🇫🇷 Français](/) | [🇬🇧 English](/en)
 
-<img src="/assets/steven.jpg" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
+<img src="/assets/photo.jpg" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
 
 # 👋 Salut, moi c'est Steven Foulon
 
