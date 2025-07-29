@@ -1,44 +1,65 @@
-.language-switcher {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* Centrer les boutons */
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-  padding: 10px 0; /* Un peu d'espacement vertical */
-}
+// Fichier LanguageSwitcher.js
+import React from 'react';
+import { NavLink, useLocation } from 'react-router-dom';
+import './LanguageSwitcher.css'; // Le même CSS que ci-dessus
 
-.lang-button {
-  text-decoration: none; /* Enlève le soulignement par défaut */
-  color: #333; /* Couleur du texte par défaut */
-  padding: 5px 10px;
-  border-radius: 5px; /* Coins légèrement arrondis */
-  transition: background-color 0.3s ease, color 0.3s ease; /* Transition douce */
-  display: flex;
-  align-items: center;
-  gap: 5px; /* Espacement entre l'icône et le texte */
-}
+const LanguageSwitcher = () => {
+  const location = useLocation();
+  const isFrench = location.pathname === '/' || location.pathname.startsWith('/fr');
 
-.lang-button:hover {
-  background-color: #f0f0f0; /* Couleur de fond au survol */
-  color: #007bff; /* Couleur du texte au survol */
-}
+  return (
+    <nav className="language-switcher">
+      <NavLink
+        to="/"
+        className={({ isActive }) =>
+          `lang-button ${isFrench ? 'active-lang' : ''}`
+        }
+        aria-label="Passer en français"
+      >
+        <span role="img" aria-label="Drapeau français">🇫🇷</span> Français
+      </NavLink>
+      <span className="separator">|</span>
+      <NavLink
+        to="/en"
+        className={({ isActive }) =>
+          `lang-button ${!isFrench ? 'active-lang' : ''}`
+        }
+        aria-label="Switch to English"
+      >
+        <span role="img" aria-label="UK flag">🇬🇧</span> English
+      </NavLink>
+    </nav>
+  );
+};
 
-.lang-button.active-lang {
-  background-color: #007bff; /* Couleur de fond pour la langue active */
-  color: white; /* Texte blanc pour la langue active */
-  font-weight: bold;
-  pointer-events: none; /* Désactiver le clic sur la langue déjà active */
-}
+export default LanguageSwitcher;
 
-.separator {
-  margin: 0 8px; /* Espacement autour du séparateur */
-  color: #ccc; /* Couleur du séparateur */
-}
+// Dans votre fichier App.js ou équivalent (où vous définissez vos routes)
+// ...
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import LanguageSwitcher from './LanguageSwitcher';
+// ... Vos composants de CV pour chaque langue
 
-/* Styles pour les drapeaux emoji */
-.lang-button span[role="img"] {
-  font-size: 1.2em; /* Taille légèrement plus grande pour les drapeaux */
+function App() {
+  return (
+    <Router>
+      <header>
+        {/* Autres éléments de l'en-tête */}
+        <LanguageSwitcher />
+      </header>
+      <main>
+        <Routes>
+          <Route path="/" element={/* Votre composant CV en FR */} />
+          <Route path="/en" element={/* Votre composant CV en EN */} />
+          {/* Si vous avez d'autres routes spécifiques à la langue */}
+          <Route path="/fr/:id" element={/* ... */} />
+          <Route path="/en/:id" element={/* ... */} />
+        </Routes>
+      </main>
+    </Router>
+  );
 }
+// ...
 
 <img src="/assets/photos.png" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
 
