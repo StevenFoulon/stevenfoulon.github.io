@@ -1,7 +1,5 @@
 [🇫🇷 Français](/) | [🇬🇧 English](/en)
 
-<img src="/assets/photos.png" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
-
 # 👋 Hi, I'm Steven Foulon
 
 Former Carrefour manager, now a **Data Engineer at SNCF**. I made a successful transition into data with a strong focus on engineering, automation and storytelling.
