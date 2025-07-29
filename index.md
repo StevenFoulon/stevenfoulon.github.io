@@ -1,4 +1,12 @@
-[🇫🇷 Français](/) | [🇬🇧 English](/en)
+<nav class="language-switcher">
+  <a href="/" class="lang-button active-lang" aria-label="Passer en français">
+    <span role="img" aria-label="Drapeau français">🇫🇷</span> Français
+  </a>
+  <span class="separator">|</span>
+  <a href="/en" class="lang-button" aria-label="Switch to English">
+    <span role="img" aria-label="UK flag">🇬🇧</span> English
+  </a>
+</nav>
 
 <img src="/assets/photos.png" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
 
