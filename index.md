@@ -1,4 +1,4 @@
-[🇫🇷 Google (Noto Color Emoji 16.0)](/) | [🇬🇧 English](/en)
+[🇫🇷 Français](/) | [🇬🇧 English](/en)
 
 <img src="/assets/photos.png" alt="Steven Foulon" width="150" style="border-radius: 50%; margin-top: 1rem;">
 
