@@ -1,5 +1,3 @@
-[🇫🇷 Français](/) | [🇬🇧 English](/en)
-
 # 👋 Salut, moi c'est Steven Foulon
 
 Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis reconverti dans la data avec passion et détermination.
