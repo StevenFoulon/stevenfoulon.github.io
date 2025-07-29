@@ -13,7 +13,8 @@ Ex-manager chez Carrefour, aujourd’hui Data Engineer chez SNCF. Je me suis rec
 
 ## 🛠️ Stack technique
 
-- **Data Engineering**: Databricks, Airflow
+- **Data Engineering**: Databricks
+- **Orchestration ETL**: Airflow
 - **Data Visualisation**: Power BI, Streamlit
 - **APIs**: FastAPI, Flask
 - **Bases de données**: PostgreSQL
